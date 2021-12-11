@@ -1,2 +1,2 @@
-print('Hello Git')
-print('Hello Git, I am speed')
+print('HELLO GIT')
+print('HELLO GIT, I AM SPEED')
